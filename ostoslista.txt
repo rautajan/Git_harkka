@@ -5,3 +5,4 @@ suklaa
 karkki
 mansikka
 mustikka
+suolakurkku
