@@ -1,4 +1,5 @@
 Väärällä nimellä taisi tulla tänne Git Hubin puolelle, vai tuliko?.
 Väärällä nimellä taisi tulla tänne Git Hubin puolelle.
-Lokaalisti lisätty rivi. Terveisiä mun koneelta!
+Lokaalisti lisätty rivi. Terveisiä mun koneelta ja GitHubista!
+
 
