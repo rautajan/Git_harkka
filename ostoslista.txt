@@ -6,3 +6,4 @@ karkki
 mansikka
 mustikka
 suolakurkku
+sokeri pohjalle
